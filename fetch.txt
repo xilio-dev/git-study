@@ -1,5 +1,0 @@
-hello world
-
-合并文件到main分支
-main分支文件
-hello world
